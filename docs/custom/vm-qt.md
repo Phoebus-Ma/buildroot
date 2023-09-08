@@ -105,21 +105,22 @@ Create virtualbox machine (also vmware):
 
 1. Create virtual machine:
 
-Type: Linux
-Version: Linux 2.6 / 3.x / 4.x / 5.x (64-bit)
-Base Memory: 1024 MB
-Processors: 1 CPU
-Virtual Hard Disk: Do Not Add a Virtual Hard Disk
-Graphics Controller: VMSVGA
-Audio Controller: Intel HD Audio
-Network Adapter: Bridged Adapter
-Optical Drive: rootfs.iso
+- Type: Linux
+- Version: Linux 2.6 / 3.x / 4.x / 5.x (64-bit)
+- Base Memory: 1024 MB
+- Processors: 1 CPU
+- Virtual Hard Disk: Do Not Add a Virtual Hard Disk
+- Graphics Controller: VMSVGA
+- Audio Controller: Intel HD Audio
+- Network Adapter: Bridged Adapter
+- Optical Drive: rootfs.iso
 
 2. Start system:
 
 Start system.
-User name: root
-Password: none
+
+- User name: root
+- Password: none
 
 3. For qt project:
 

@@ -28,24 +28,26 @@ Change log architecture:
         └── home
 
 0.Add base chanage.
-	Config.in
-	README.md
-	buildroot_manual.md
-	buildroot_manual_cn.md
+    Config.in
+    README.md
+    buildroot_manual.md
+    buildroot_manual_cn.md
 
 1.Add music player project.
-	vm_x64_music_player_defconfig
-	isolinux.cfg
-	isolinux.cfg.origin
+    vm_x64_music_player_defconfig
+    isolinux.cfg
+    isolinux.cfg.origin
 
 2.Add qt project.
-	vm_x64_qt_defconfig
-	linux.config
-	linux.config.origin
+    vm_x64_qt_defconfig
+    linux.config
+    linux.config.origin
 
 3.Add weston project.
-	vm_x64_weston_defconfig
-	readme_vm.txt
-	system/skeleton/home/
-	docs/custom/
+    vm_x64_weston_defconfig
+    readme_vm.txt
+    system/skeleton/home/
+    docs/custom/
 
+4.Add xxxx.md.
+    docs/custom/xxxx.md
