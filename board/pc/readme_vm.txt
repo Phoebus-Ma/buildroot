@@ -47,7 +47,8 @@ Emulation in virtualbox
   Virtual Hard Disk: Do Not Add a Virtual Hard Disk
   Graphics Controller: VMSVGA
   Audio Controller: Intel HD Audio
-  Network Adapter: Bridged Adapter  
+  Network Adapter: Bridged Adapter
+  Optical Drive: rootfs.iso
 
 2. Start system:
 
@@ -57,18 +58,18 @@ Emulation in virtualbox
 
 3. For music player project:
 
-	mpg123 test.mp3
+  mpg123 test.mp3
 
 4. For qt project:
 
-	./calculator
+  ./calculator
 
 5. For weston project:
 
-	mkdir -p /tmp/wayland
-	chmod 0700 /tmp/wayland
-	export XDG_RUNTIME_DIR=/tmp/wayland
-	weston
+  mkdir -p /tmp/wayland
+  chmod 0700 /tmp/wayland
+  export XDG_RUNTIME_DIR=/tmp/wayland
+  weston
 
 
 Emulation in wmware

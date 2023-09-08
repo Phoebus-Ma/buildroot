@@ -194,7 +194,7 @@ The buildroot base on buildroot-2023.8.
 
 [buildroot homepage](https://buildroot.org/)
 
-[user manual](docs/buildroot_manual.md)
+[user manual](docs/custom/buildroot_manual.md)
 
 [contribute patches](https://buildroot.org/manual.html#submitting-patches)
 
